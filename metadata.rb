@@ -9,3 +9,5 @@ issues_url 'https://github.com/chef-cookbooks/chef-server-cluster/issues' if res
 version '0.0.9'
 depends 'chef-ingredient'
 depends 'chef-vault'
+depends 'yum-epel'
+depends 'build-essential'
