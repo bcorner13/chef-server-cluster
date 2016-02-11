@@ -7,4 +7,5 @@ group :integration do
 end
 
 # This cookbook isn't on supermarket.
-cookbook 'chef-server-ingredient', github: 'chef-cookbooks/chef-server-ingredient'
+#cookbook 'chef-server-ingredient', github: 'chef-cookbooks/chef-server-ingredient'
+# The new cookbook is on the supermarket.
